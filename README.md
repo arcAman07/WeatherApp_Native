@@ -6,5 +6,5 @@ A Weather Native Application which fetches the weather and temperature of a city
 Future Improvements:
 1) Change in Image View based on the current weather of the city entered by the user.
 2) Automatic track of weather of most entered cities of the user.
-3) Adding retrofit
+3) Adding retrofit.
 
