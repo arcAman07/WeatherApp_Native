@@ -4,4 +4,7 @@ A Weather Native Application which fetches the weather and temperature of a city
 ![image](https://user-images.githubusercontent.com/76823502/134424053-b2a97a76-1bf1-4656-aee3-e2880f34f141.png)
 
 Future Improvements:
+1) Change in Image View based on the current weather of the city entered by the user.
+2) Automatic track of weather of most entered cities of the user.
+3) Adding retrofit
 
